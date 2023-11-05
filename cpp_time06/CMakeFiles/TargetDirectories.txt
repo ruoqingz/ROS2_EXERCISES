@@ -1,0 +1,10 @@
+/home/parallels/ws01_pluming/src/build/cpp_time06/CMakeFiles/uninstall.dir
+/home/parallels/ws01_pluming/src/build/cpp_time06/CMakeFiles/cpp_time06_uninstall.dir
+/home/parallels/ws01_pluming/src/build/cpp_time06/CMakeFiles/time.dir
+/home/parallels/ws01_pluming/src/build/cpp_time06/CMakeFiles/test.dir
+/home/parallels/ws01_pluming/src/build/cpp_time06/CMakeFiles/edit_cache.dir
+/home/parallels/ws01_pluming/src/build/cpp_time06/CMakeFiles/rebuild_cache.dir
+/home/parallels/ws01_pluming/src/build/cpp_time06/CMakeFiles/list_install_components.dir
+/home/parallels/ws01_pluming/src/build/cpp_time06/CMakeFiles/install.dir
+/home/parallels/ws01_pluming/src/build/cpp_time06/CMakeFiles/install/local.dir
+/home/parallels/ws01_pluming/src/build/cpp_time06/CMakeFiles/install/strip.dir

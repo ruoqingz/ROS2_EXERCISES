@@ -1,0 +1,16 @@
+/home/parallels/ws01_pluming/src/install/cpp_time06/lib/cpp_time06/time
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/ament_index/resource_index/package_run_dependencies/cpp_time06
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/ament_index/resource_index/parent_prefix_path/cpp_time06
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/environment/ament_prefix_path.sh
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/environment/ament_prefix_path.dsv
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/environment/path.sh
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/environment/path.dsv
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/local_setup.bash
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/local_setup.sh
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/local_setup.zsh
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/local_setup.dsv
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/package.dsv
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/ament_index/resource_index/packages/cpp_time06
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/cmake/cpp_time06Config.cmake
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/cmake/cpp_time06Config-version.cmake
+/home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/package.xml
