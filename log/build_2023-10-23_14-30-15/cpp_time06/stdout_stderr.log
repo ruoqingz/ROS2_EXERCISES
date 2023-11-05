@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target time[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/time.dir/src/time.cpp.o[0m
+[100%] [32m[1mLinking CXX executable time[0m
+[100%] Built target time
+-- Install configuration: ""
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/lib/cpp_time06/time
+-- Set runtime path of "/home/parallels/ws01_pluming/src/install/cpp_time06/lib/cpp_time06/time" to ""
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/ament_index/resource_index/package_run_dependencies/cpp_time06
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/ament_index/resource_index/parent_prefix_path/cpp_time06
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/environment/ament_prefix_path.sh
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/environment/ament_prefix_path.dsv
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/environment/path.sh
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/environment/path.dsv
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/local_setup.bash
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/local_setup.sh
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/local_setup.zsh
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/local_setup.dsv
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/package.dsv
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/ament_index/resource_index/packages/cpp_time06
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/cmake/cpp_time06Config.cmake
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/cmake/cpp_time06Config-version.cmake
+-- Installing: /home/parallels/ws01_pluming/src/install/cpp_time06/share/cpp_time06/package.xml

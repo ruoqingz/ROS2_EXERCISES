@@ -1,0 +1,4 @@
+Invoking command in '/home/parallels/ws01_pluming/src/build/cpp_time06': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/parallels/ws01_pluming/src/build/cpp_time06 -- -j2 -l2
+Invoked command in '/home/parallels/ws01_pluming/src/build/cpp_time06' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/parallels/ws01_pluming/src/build/cpp_time06 -- -j2 -l2
+Invoking command in '/home/parallels/ws01_pluming/src/build/cpp_time06': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/parallels/ws01_pluming/src/build/cpp_time06
+Invoked command in '/home/parallels/ws01_pluming/src/build/cpp_time06' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/parallels/ws01_pluming/src/build/cpp_time06

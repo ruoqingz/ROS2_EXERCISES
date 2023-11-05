@@ -1,0 +1,4 @@
+Invoking command in '/home/parallels/ws01_pluming/src/build/cpp_param04': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake /home/parallels/ws01_pluming/src/cpp_param04 -DCMAKE_INSTALL_PREFIX=/home/parallels/ws01_pluming/src/install/cpp_param04
+Invoked command in '/home/parallels/ws01_pluming/src/build/cpp_param04' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake /home/parallels/ws01_pluming/src/cpp_param04 -DCMAKE_INSTALL_PREFIX=/home/parallels/ws01_pluming/src/install/cpp_param04
+Invoking command in '/home/parallels/ws01_pluming/src/build/cpp_param04': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/parallels/ws01_pluming/src/build/cpp_param04 -- -j2 -l2
+Invoked command in '/home/parallels/ws01_pluming/src/build/cpp_param04' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/parallels/ws01_pluming/src/build/cpp_param04 -- -j2 -l2

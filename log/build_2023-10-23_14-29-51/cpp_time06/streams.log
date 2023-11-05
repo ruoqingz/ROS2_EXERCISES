@@ -1,0 +1,33 @@
+[0.052s] Invoking command in '/home/parallels/ws01_pluming/src/build/cpp_time06': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/parallels/ws01_pluming/src/build/cpp_time06 -- -j2 -l2
+[0.093s] -- Found ament_cmake: 2.0.3 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.213s] -- Found rclcpp: 21.0.3 (/opt/ros/iron/share/rclcpp/cmake)
+[0.272s] -- Found rosidl_generator_c: 4.0.1 (/opt/ros/iron/share/rosidl_generator_c/cmake)
+[0.282s] -- Found rosidl_generator_cpp: 4.0.1 (/opt/ros/iron/share/rosidl_generator_cpp/cmake)
+[0.301s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.318s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.469s] -- Found rmw_implementation_cmake: 7.1.0 (/opt/ros/iron/share/rmw_implementation_cmake/cmake)
+[0.472s] -- Found rmw_fastrtps_cpp: 7.1.1 (/opt/ros/iron/share/rmw_fastrtps_cpp/cmake)
+[0.585s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.612s] -- Found FastRTPS: /opt/ros/iron/include  
+[0.654s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.808s] -- Found std_msgs: 5.0.0 (/opt/ros/iron/share/std_msgs/cmake)
+[0.837s] -- Found ament_lint_auto: 0.14.2 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[0.892s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.892s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/parallels/ws01_pluming/src/cpp_time06/include>
+[0.893s] -- Configured cppcheck exclude dirs and/or files: 
+[0.894s] -- Added test 'lint_cmake' to check CMake code style
+[0.895s] -- Added test 'uncrustify' to check C / C++ code style
+[0.895s] -- Configured uncrustify additional arguments: 
+[0.895s] -- Added test 'xmllint' to check XML markup files
+[0.897s] -- Configuring done
+[0.913s] -- Generating done
+[0.913s] -- Build files have been written to: /home/parallels/ws01_pluming/src/build/cpp_time06
+[0.946s] [ 50%] [32mBuilding CXX object CMakeFiles/time.dir/src/time.cpp.o[0m
+[3.221s] [01m[K/home/parallels/ws01_pluming/src/cpp_time06/src/time.cpp:[m[K In member function ‘[01m[Kvoid MyNode::demo_rate()[m[K’:
+[3.221s] [01m[K/home/parallels/ws01_pluming/src/cpp_time06/src/time.cpp:18:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Krate1[m[K’
+[3.222s]    18 |     [01;31m[Krate1[m[K.sleep();
+[3.222s]       |     [01;31m[K^~~~~[m[K
+[3.845s] gmake[2]: *** [CMakeFiles/time.dir/build.make:76: CMakeFiles/time.dir/src/time.cpp.o] Error 1
+[3.845s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/time.dir/all] Error 2
+[3.845s] gmake: *** [Makefile:146: all] Error 2
+[3.868s] Invoked command in '/home/parallels/ws01_pluming/src/build/cpp_time06' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/parallels/ws01_pluming/src/build/cpp_time06 -- -j2 -l2
